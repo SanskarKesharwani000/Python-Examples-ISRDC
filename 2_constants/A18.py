@@ -1,0 +1,5 @@
+# x = 0xa1 + 0xb1j
+
+x = 0xa1 + 8j
+
+print(x)
